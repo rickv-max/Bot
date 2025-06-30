@@ -1,0 +1,5 @@
+.env                # Jangan upload file konfigurasi sensitif
+scheduled_posts.json # File data jadwal bot
+faqs.json           # File data FAQ bot
+__pycache__/        # Folder cache Python
+*.pyc               # File bytecode Python
